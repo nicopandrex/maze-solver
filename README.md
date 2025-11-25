@@ -45,7 +45,7 @@ If you want to speed up the animation lessen time.sleep(.05) in find_path:
         print_maze(maze,stdscr,path)
         time.sleep(.05)
         stdscr.refresh()
-``
+```
 
 ## Program Overview
 
